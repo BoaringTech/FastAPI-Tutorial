@@ -1,2 +1,3 @@
-Learning to create an API with FastAPI.
-ALso learned about OpenAPI and how it works.
+Explicit purpose of learning to create an API with FastAPI.  
+Also learned about OpenAPI and how it works.  
+I follow along this video https://www.youtube.com/watch?v=iWS9ogMPOI0&list=PLFUTdz4HLJVkG6NfV_xKcv-4Tl-tpRL1L
